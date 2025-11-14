@@ -1,3 +1,4 @@
+# lib/migrations/script_py.mako
 """${message}
 
 Revision ID: ${up_revision}
